@@ -1,0 +1,18 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.APP {
+  margin: auto;
+  font-family: sans-serif;
+}
+
+.otpInput{
+  width: 40px;
+  height: 40px;
+  margin: 5px;
+  text-align: center;
+  font-size: 1.2em;
+}
